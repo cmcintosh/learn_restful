@@ -1,0 +1,31 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "This is a training tool and prototyping tool for RestFUL API work",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.8.7",
+    "nodemon": "^1.11.0"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Training"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcintosh/learn_restful.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmcintosh/learn_restful.git/issues"
+  },
+  "homepage": "https://github.com/cmcintosh/learn_restful.git"
+}
